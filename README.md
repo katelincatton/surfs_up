@@ -1,5 +1,5 @@
-# surfs_up
-Module 9
+# Surfs Up!
+Module 9 - Advanced Data Storage and Retrieval
 ## Overview
 This analysis examines weather data, specifically temperature, in Oahu with hopes to determine any trends within the data. When analyzing these trends, we will be able to decide whether or not the Surf shop and ice cream shop should continue to be open year-round. To make this decision, we will manipulate the dataset to get the temperature trends and summary statistics in the months of June and December.
 ## Results
@@ -14,7 +14,7 @@ Next, we analyzed the temperatures for the month of December. As you’d expect,
 ## Summary
 With the data collected, the average temperatures suggests that the surf shop and ice cream shop could benefit from being open all year-round since the average temperature only changes about 4 degrees. Of course, the shops will have higher sales in the month of June because of the weather, but December will continue to serve the public and bring in revenue. Please see two query suggestions/opportunities that may benefit this weather analysis:
 1. To further this anlysis, it would be a good idea to gather information on the sales conducted in these months so we can properly determine if there is a direct correlation between the weather and the sales of both shops.
-2.Analyzing temperature is the bara minimum for this study, I suggest that we should also bring in multiple other necessary variables such precipitation, surfing frequency (how many people go surfing during that time of the year), tourist frequency, etc. With these new variable, we would have a more accurate representation of when and why the two shops should be open.
+2. Analyzing temperature is the bare minimum for this study, I suggest that we should also bring in multiple other necessary variables such precipitation, surfing frequency (how many people go surfing during that time of the year), tourist frequency, etc. With these new variables, we would have a more accurate representation of when and why the two shops should be open.
 
 Data Analysis Performed by Katelin Catton
 2/6/2023
